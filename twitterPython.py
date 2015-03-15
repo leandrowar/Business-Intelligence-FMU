@@ -31,10 +31,10 @@ def coleta_tweets(query, max = 3000):
             tso.set_language('pt') # Apenas Tweets em portugues
  
             ts = TwitterSearch(
-				access_token  = '38855125-pNaSiE7TKu4VMl8S41fXKKVYV7qSgYlEtIXswRY8p',
-				access_token_secret  = 'vrYHEa3oeqdOifeYUzaACThvR5B1IMIL5DWATRCc',
-				consumer_key  = 'LyL3DPwb7UXJSpghHQclQ',
-				consumer_secret  = 'jO8NXrad1F8iP6TfCbM8AIseBMuQP03kMO0ZC7wxus'
+				access_token  = '',
+				access_token_secret  = '',
+				consumer_key  = '',
+				consumer_secret  = ''
 				)
  
             for tweet in ts.search_tweets_iterable(tso):
