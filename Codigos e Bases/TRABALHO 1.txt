@@ -1,0 +1,13 @@
+Trabalho: Conceitos Fundamentais de Business Intelligence
+
+Data de entrega: Segunda-Feira, 16.03.2015
+
+Pontos: 3 (1 para cada questão)
+
+Formato de entrega: Impresso
+
+1 - Qual é a diferença entre Big Data e Business Intelligence?
+
+2 - Quais é a definição e os conceitos fundamentais de BI?
+
+3 - Cite um case (exemplo) de aplicação de Business Intelligence (pode ser na sua empresa ou alguma outra pesquisa)
