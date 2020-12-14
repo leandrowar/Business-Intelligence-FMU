@@ -5,7 +5,7 @@
     <img src="https://user-images.githubusercontent.com/4582415/102086960-26251100-3e19-11eb-8bcb-47c01dd92e1b.png" alt="Logo" width="100" height="100">
   </a>
 <p align="center">
-  <h3 align="center">Computational Finance</h3>
+  <h3 align="center">Business Intelligence - FMU</h3>
 
   <p align="center">
     Arquivos do curso de Pos-Graduaçao
